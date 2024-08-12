@@ -48,7 +48,7 @@ Lastly the use of magic values this is somthing im actually trying to stop doing
 };
  ```
 
- ## What went well
+ ## What Went Well
 
 First its a working 1v1.lol cheat with a soild base that can be used in alomost any other IL2CPP unity game.
 
